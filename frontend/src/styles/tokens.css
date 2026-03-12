@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,700&display=swap');
+
+:root {
+  --bg-start: #f2eee7;
+  --bg-end: #d7e4eb;
+  --surface: #fffaf4;
+  --surface-alt: #f5f0e6;
+  --ink: #1f2a35;
+  --muted: #516270;
+  --line: #cfcbc4;
+  --accent: #0f766e;
+  --accent-deep: #115e59;
+  --danger: #b91c1c;
+  --shadow: 0 18px 45px rgba(26, 37, 49, 0.14);
+
+  --font-body: 'Manrope', 'Avenir Next', sans-serif;
+  --font-heading: 'Fraunces', Georgia, serif;
+}
